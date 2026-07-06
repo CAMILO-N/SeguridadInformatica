@@ -1,8 +1,6 @@
 # MERCI — Aplicativo de gestión de riesgo cibernético
 
-Aplicación web 100% del lado del cliente (sin backend, sin build, sin
-dependencias de npm) que automatiza la metodología MERCI descrita en el
-documento técnico del proyecto.
+
 
 ## Cómo ejecutarla
 
