@@ -21,5 +21,6 @@ SeguridadInformatica/
     ├── Manual_Usuario_MERCI.docx
     ├── Documento_Respaldo_Tecnico_MERCI (1).docx
     ├── PPT/
+    │   └── MERCI_Integrated_Risk_Methodology.pdf
     └── Video/
 ```
